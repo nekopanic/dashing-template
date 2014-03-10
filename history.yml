@@ -1,0 +1,16 @@
+---
+convergence: |+
+  data: {"points":[{"x":4,"y":31},{"x":5,"y":46},{"x":6,"y":35},{"x":7,"y":20},{"x":8,"y":3},{"x":9,"y":20},{"x":10,"y":23},{"x":11,"y":15},{"x":12,"y":16},{"x":13,"y":7}],"id":"convergence","updatedAt":1394146430}
+
+valuation: |+
+  data: {"current":83,"last":64,"id":"valuation","updatedAt":1394146430}
+
+karma: |+
+  data: {"current":108748,"last":89919,"id":"karma","updatedAt":1394146430}
+
+synergy: |+
+  data: {"value":36,"id":"synergy","updatedAt":1394146430}
+
+buzzwords: |+
+  data: {"items":[{"label":"Synergy","value":1},{"label":"Web 2.0","value":1},{"label":"Leverage","value":1}],"id":"buzzwords","updatedAt":1394146430}
+
